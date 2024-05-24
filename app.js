@@ -10,7 +10,7 @@ const amountHolder = document.getElementById("transaction_amount");
 
 const addTransactionButton =  document.getElementById("add_transaction");
 const cancelEditButton = document.getElementById("cancel_edit");
-app
+
 const transactionList = document.getElementById("list_of_transactions")
 
 let currencySymbol = "Rs.";
